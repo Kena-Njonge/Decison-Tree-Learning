@@ -1,5 +1,7 @@
 # Decision Tree Learning
 
+<img src=".\Decision-Tree.png" width="500" height="600">
+
 Learning is the process of an agent improving its future performance by adapting its output based on a given percept sequence and knowledge about the world. Learning is an important tool as the perfect behavior for an agent may not be programmable. This can be due to a dynamic environment that prevents a programmer from implementing every possible action e.g. the environment of a humanoid robot or the Mars exploration rovers, which can take a step of 30cm or 20 cm etc., or a dynamic environment in which not every outcome is predictable e.g. the stock market. Three forms of learning are common when it comes to artificial intelligence, supervised learning, unsupervised learning, and reinforcement learning. These types of learning differ in the form of feedback that is available for the agent. When it comes to supervised learning both the input and output are available to the agent, reinforcement learning does not provide the output to the agent but provides feedback in the form of a reward or a punishment, and unsupervised learning does not provide any feedback. Decision Tree Learning is an inductive (supervised) form of learning where the agent learns a function based on given input-output pairs. 
 
 ## Motivation
